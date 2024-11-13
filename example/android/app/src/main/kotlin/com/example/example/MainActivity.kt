@@ -1,4 +1,4 @@
-package com.example.epub_viewer_example.example
+package com.example.example
 
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.engine.FlutterEngine
