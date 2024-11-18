@@ -108,10 +108,10 @@ class _MyAppState extends State<MyApp> {
                           VocsyEpub.setConfig(
                             themeColor: Theme.of(context).primaryColor,
                             identifier: "iosBook",
-                            scrollDirection: EpubScrollDirection.ALLDIRECTIONS,
+                            scrollDirection: EpubScrollDirection.HORIZONTAL,
                             allowSharing: true,
                             enableTts: true,
-                            nightMode: true,
+                            nightMode: false,
                           );
 
                           // get current locator
@@ -267,7 +267,8 @@ class _MyAppState extends State<MyApp> {
     if (!File(path).existsSync()) {
       await file.create();
       await dio.download(
-        "https://vocsyinfotech.in/envato/cc/flutter_ebook/uploads/22566_The-Racketeer---John-Grisham.epub",
+        "https://cdn.ambition.guru/agcdn/medias/2024/8/21/Rudane-3.epub?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c7eonfN7gZfsnkZK%2F20241118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241118T042118Z&X-Amz-SignedHeaders=host&X-Amz-Expires=18000&X-Amz-Signature=7bdd3cdd4e2d72ff1ec1d12a0e743a72cf58629ff1998ac66b923b6007713bf1",
+        // "https://vocsyinfotech.in/envato/cc/flutter_ebook/uploads/22566_The-Racketeer---John-Grisham.epub",
         path,
         deleteOnError: true,
         onReceiveProgress: (receivedBytes, totalBytes) {
