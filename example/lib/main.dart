@@ -139,10 +139,10 @@ class _MyAppState extends State<MyApp> {
                         VocsyEpub.setConfig(
                           themeColor: Theme.of(context).primaryColor,
                           identifier: "iosBook",
-                          scrollDirection: EpubScrollDirection.ALLDIRECTIONS,
+                          scrollDirection: EpubScrollDirection.HORIZONTAL,
                           allowSharing: true,
                           enableTts: true,
-                          nightMode: true,
+                          nightMode: false,
                         );
                         // get current locator
                         VocsyEpub.locatorStream.listen((locator) {
