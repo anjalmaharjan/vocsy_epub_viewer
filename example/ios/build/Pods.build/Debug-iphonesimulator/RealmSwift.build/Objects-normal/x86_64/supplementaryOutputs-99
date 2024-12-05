@@ -1,0 +1,42 @@
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/Impl/KeyPathStrings.swift":
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/KeyPathStrings.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/KeyPathStrings.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/KeyPathStrings.swiftconstvalues"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/KeyPathStrings.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/KeyPathStrings.dia"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/Migration.swift":
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Migration.swiftconstvalues"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Migration.d"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Migration.dia"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Migration.swiftdeps"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Migration.o"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/Map.swift":
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Map.dia"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Map.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Map.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Map.swiftconstvalues"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Map.swiftdeps"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/MutableSet.swift":
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MutableSet.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MutableSet.dia"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MutableSet.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MutableSet.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MutableSet.swiftconstvalues"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/List.swift":
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/List.o"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/List.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/List.dia"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/List.swiftconstvalues"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/List.d"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/LinkingObjects.swift":
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/LinkingObjects.swiftconstvalues"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/LinkingObjects.o"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/LinkingObjects.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/LinkingObjects.dia"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/LinkingObjects.d"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/MongoClient.swift":
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MongoClient.dia"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MongoClient.swiftdeps"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MongoClient.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MongoClient.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/MongoClient.swiftconstvalues"

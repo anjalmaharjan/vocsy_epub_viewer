@@ -1,0 +1,24 @@
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/ScrollScrubber.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/ScrollScrubber.d"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/ScrollScrubber.dia"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/ScrollScrubber.swiftconstvalues"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/ScrollScrubber.o"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/ScrollScrubber.swiftdeps"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Vendor/SMSegmentView/SMSegment.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegment.d"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegment.o"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegment.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegment.dia"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegment.swiftconstvalues"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/DerivedSources/GeneratedAssetSymbols.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/GeneratedAssetSymbols.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Vendor/SMSegmentView/SMSegmentView.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegmentView.d"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegmentView.dia"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegmentView.swiftconstvalues"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegmentView.o"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/SMSegmentView.swiftdeps"

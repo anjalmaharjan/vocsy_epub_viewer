@@ -1,0 +1,36 @@
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/RealmProperty.swift":
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RealmProperty.swiftconstvalues"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RealmProperty.dia"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RealmProperty.d"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RealmProperty.swiftdeps"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RealmProperty.o"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/Schema.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Schema.d"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Schema.swiftdeps"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Schema.swiftconstvalues"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Schema.o"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Schema.dia"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/Realm/Swift/RLMSupport.swift":
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RLMSupport.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RLMSupport.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RLMSupport.swiftconstvalues"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RLMSupport.dia"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/RLMSupport.swiftdeps"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/Impl/SchemaDiscovery.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SchemaDiscovery.d"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SchemaDiscovery.o"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SchemaDiscovery.swiftconstvalues"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SchemaDiscovery.dia"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SchemaDiscovery.swiftdeps"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/SectionedResults.swift":
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SectionedResults.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SectionedResults.dia"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SectionedResults.o"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SectionedResults.swiftconstvalues"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/SectionedResults.d"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/RealmSwift/RealmSwift/Results.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Results.d"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Results.o"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Results.swiftconstvalues"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Results.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/x86_64/Results.dia"

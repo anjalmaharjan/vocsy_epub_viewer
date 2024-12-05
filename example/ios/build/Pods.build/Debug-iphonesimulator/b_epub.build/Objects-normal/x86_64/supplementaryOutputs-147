@@ -1,0 +1,30 @@
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/FolioReaderPage.swift":
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPage.swiftdeps"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPage.d"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPage.o"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPage.dia"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPage.swiftconstvalues"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/FolioReaderPlayerMenu.swift":
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPlayerMenu.dia"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPlayerMenu.swiftconstvalues"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPlayerMenu.swiftdeps"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPlayerMenu.d"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPlayerMenu.o"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/FolioReaderKit.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderKit.d"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderKit.o"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderKit.swiftconstvalues"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderKit.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderKit.dia"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/FolioReaderQuoteShare.swift":
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderQuoteShare.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderQuoteShare.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderQuoteShare.swiftconstvalues"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderQuoteShare.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderQuoteShare.dia"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/FolioReaderPageIndicator.swift":
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPageIndicator.d"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPageIndicator.o"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPageIndicator.dia"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPageIndicator.swiftconstvalues"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FolioReaderPageIndicator.swiftdeps"

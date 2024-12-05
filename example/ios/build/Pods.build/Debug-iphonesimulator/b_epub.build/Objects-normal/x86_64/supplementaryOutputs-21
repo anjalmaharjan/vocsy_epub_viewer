@@ -1,0 +1,30 @@
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/EPUBCore/FRResource.swift":
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResource.swiftdeps"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResource.dia"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResource.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResource.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResource.swiftconstvalues"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/EPUBCore/FRMetadata.swift":
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRMetadata.dia"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRMetadata.d"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRMetadata.swiftconstvalues"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRMetadata.o"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRMetadata.swiftdeps"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/EPUBCore/FRResources.swift":
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResources.swiftconstvalues"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResources.d"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResources.swiftdeps"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResources.o"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRResources.dia"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/EPUBCore/FRSmilElement.swift":
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRSmilElement.swiftdeps"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRSmilElement.swiftconstvalues"
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRSmilElement.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRSmilElement.d"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FRSmilElement.dia"
+"/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/Pods/b_epub/FolioReaderKit/Source/EPUBCore/FREpubParser.swift":
+  object: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FREpubParser.o"
+  dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FREpubParser.d"
+  diagnostics: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FREpubParser.dia"
+  swift-dependencies: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FREpubParser.swiftdeps"
+  const-values: "/Users/anjal/Downloads/vocsy_epub_viewer/example/ios/build/Pods.build/Debug-iphonesimulator/b_epub.build/Objects-normal/x86_64/FREpubParser.swiftconstvalues"
